@@ -6,8 +6,6 @@ Um jogo simples em Python utilizando a biblioteca Pygame, focado em aprendizado 
 
 🚧 Status do projeto O projeto está funcional e pronto para jogar. Novas melhorias podem incluir pontuação mais avançada, níveis de dificuldade e efeitos visuais.
 
-🛠 Tecnologias utilizadas
+🛠 Tecnologias utilizadas:
 
-python
-
-pygame
+Python & pygame
