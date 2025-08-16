@@ -19,7 +19,7 @@ VERMELHO = (255, 0, 0)
 
 # Relógio e velocidade
 clock = pygame.time.Clock()
-velocidade = 10
+velocidade = 15
 
 # Tamanho do bloco da cobra
 tamanho_bloco = 20
@@ -128,3 +128,4 @@ def jogo():
 
 # Iniciar o jogo
 jogo()
+
