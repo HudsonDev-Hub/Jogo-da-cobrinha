@@ -8,4 +8,5 @@ Um jogo simples em Python utilizando a biblioteca Pygame, focado em aprendizado 
 
 🛠 Tecnologias utilizadas
 python
+
 pygame
